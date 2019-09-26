@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parallel.for", "parallel.for\parallel.for.csproj", "{5682C651-1D4A-4E82-A003-0A7C579D3A7A}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parallel.linq.query", "parallel.linq.query\parallel.linq.query.csproj", "{E550C021-9211-4F17-A136-9DB3A97D811D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parallel.linq.ordered.and.sequential", "parallel.linq.ordered.and.sequential\parallel.linq.ordered.and.sequential.csproj", "{48796039-BD92-45F7-A7AD-5D382C96E7AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parallel.for.all", "parallel.for.all\parallel.for.all.csproj", "{D0F07DB1-C9C9-4099-82F7-B6BDE00CE2C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{48796039-BD92-45F7-A7AD-5D382C96E7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48796039-BD92-45F7-A7AD-5D382C96E7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48796039-BD92-45F7-A7AD-5D382C96E7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F07DB1-C9C9-4099-82F7-B6BDE00CE2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F07DB1-C9C9-4099-82F7-B6BDE00CE2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F07DB1-C9C9-4099-82F7-B6BDE00CE2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F07DB1-C9C9-4099-82F7-B6BDE00CE2C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
