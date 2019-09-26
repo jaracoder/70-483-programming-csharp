@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parallel.linq.ordered.and.s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parallel.for.all", "parallel.for.all\parallel.for.all.csproj", "{D0F07DB1-C9C9-4099-82F7-B6BDE00CE2C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parallel.exceptions", "parallel.exceptions\parallel.exceptions.csproj", "{0C17102B-A692-42F7-AAB6-9A1454E33F6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D0F07DB1-C9C9-4099-82F7-B6BDE00CE2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0F07DB1-C9C9-4099-82F7-B6BDE00CE2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0F07DB1-C9C9-4099-82F7-B6BDE00CE2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C17102B-A692-42F7-AAB6-9A1454E33F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C17102B-A692-42F7-AAB6-9A1454E33F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C17102B-A692-42F7-AAB6-9A1454E33F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C17102B-A692-42F7-AAB6-9A1454E33F6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
