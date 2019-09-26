@@ -3,6 +3,14 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
+/// <summary>
+/// Diferencias entre métodos break y stop:
+/// 
+/// estado.Break(): significa completar todas las iteraciones en todos los hilos que son anteriores 
+/// a la iteración actual en el hilo actual y luego salir del bucle.
+/// 
+/// estado.Stop(): significa detener todas las iteraciones tan pronto como sea conveniente.
+/// </summary>
 namespace parallel.@for.stop
 {
     class Program
@@ -20,9 +28,9 @@ namespace parallel.@for.stop
 
             ParallelLoopResult resultado = Parallel.For(0, elementos.Length, (int i, ParallelLoopState estado) =>
             {
-                if (i == 100)
-                    estado.Stop();
-                    //estado.Break();
+                if (i == 5)
+                    //estado.Stop();
+                    estado.Break();
 
                 ProcesarElemento(elementos[i]);
             });
