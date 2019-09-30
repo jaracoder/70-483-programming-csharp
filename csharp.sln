@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29306.81
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parallel.for", "parallel.for\parallel.for.csproj", "{5682C651-1D4A-4E82-A003-0A7C579D3A7A}"
 EndProject
@@ -50,6 +50,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread.threadlocal", "thread.threadlocal\thread.threadlocal.csproj", "{71C0822A-7A68-4AE6-91AE-FF8ACD141428}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread.context.information", "thread.context.information\thread.context.information.csproj", "{FF7FF54A-9E67-4B57-96C3-7D7232772FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async.exceptions", "async.exceptions\async.exceptions.csproj", "{D02DCAA0-DFE2-42C1-AA6D-A68AF57333C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async.webpage.exceptions", "async.webpage.exceptions\async.webpage.exceptions.csproj", "{3139081D-74F2-4A9A-8E95-205FA2180C42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,14 @@ Global
 		{FF7FF54A-9E67-4B57-96C3-7D7232772FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF7FF54A-9E67-4B57-96C3-7D7232772FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF7FF54A-9E67-4B57-96C3-7D7232772FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02DCAA0-DFE2-42C1-AA6D-A68AF57333C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02DCAA0-DFE2-42C1-AA6D-A68AF57333C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02DCAA0-DFE2-42C1-AA6D-A68AF57333C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02DCAA0-DFE2-42C1-AA6D-A68AF57333C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3139081D-74F2-4A9A-8E95-205FA2180C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3139081D-74F2-4A9A-8E95-205FA2180C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3139081D-74F2-4A9A-8E95-205FA2180C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3139081D-74F2-4A9A-8E95-205FA2180C42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
