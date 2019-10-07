@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reflection.finding.componen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codedom.object", "codedom.object\codedom.object.csproj", "{73AEA8AA-0F12-487A-BF52-1E2DB023E6BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambda.expression.tree", "lambda.expression.tree\lambda.expression.tree.csproj", "{D5AC14D7-08EF-4080-B8B7-ED91F3D041A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{73AEA8AA-0F12-487A-BF52-1E2DB023E6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73AEA8AA-0F12-487A-BF52-1E2DB023E6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73AEA8AA-0F12-487A-BF52-1E2DB023E6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5AC14D7-08EF-4080-B8B7-ED91F3D041A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5AC14D7-08EF-4080-B8B7-ED91F3D041A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5AC14D7-08EF-4080-B8B7-ED91F3D041A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5AC14D7-08EF-4080-B8B7-ED91F3D041A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
