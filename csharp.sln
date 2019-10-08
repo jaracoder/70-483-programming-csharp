@@ -55,8 +55,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async.exceptions", "async.e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async.webpage.exceptions", "async.webpage.exceptions\async.webpage.exceptions.csproj", "{3139081D-74F2-4A9A-8E95-205FA2180C42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task.blockingcollection", "task.blockingcollection\task.blockingcollection.csproj", "{491BFE42-3447-4F42-88BA-F2376969E750}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codedom.object", "codedom.object\codedom.object.csproj", "{73AEA8AA-0F12-487A-BF52-1E2DB023E6BB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "concurrent.bag", "concurrent.bag\concurrent.bag.csproj", "{9F696387-3706-418B-9A0D-77E69056D2C5}"
@@ -263,10 +261,6 @@ Global
 		{3139081D-74F2-4A9A-8E95-205FA2180C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3139081D-74F2-4A9A-8E95-205FA2180C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3139081D-74F2-4A9A-8E95-205FA2180C42}.Release|Any CPU.Build.0 = Release|Any CPU
-		{491BFE42-3447-4F42-88BA-F2376969E750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{491BFE42-3447-4F42-88BA-F2376969E750}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{491BFE42-3447-4F42-88BA-F2376969E750}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{491BFE42-3447-4F42-88BA-F2376969E750}.Release|Any CPU.Build.0 = Release|Any CPU
 		{73AEA8AA-0F12-487A-BF52-1E2DB023E6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{73AEA8AA-0F12-487A-BF52-1E2DB023E6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73AEA8AA-0F12-487A-BF52-1E2DB023E6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
