@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{491BFE42-3447-4F42-88BA-F2376969E750}</ProjectGuid>
+    <ProjectGuid>{371220B6-7E6E-46CA-8CDC-A780BCE5B307}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>task.blockingcollection</RootNamespace>
     <AssemblyName>task.blockingcollection</AssemblyName>
