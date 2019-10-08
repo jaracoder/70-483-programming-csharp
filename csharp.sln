@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29306.81
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parallel.for", "parallel.for\parallel.for.csproj", "{5682C651-1D4A-4E82-A003-0A7C579D3A7A}"
 EndProject
@@ -50,16 +50,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread.threadlocal", "thread.threadlocal\thread.threadlocal.csproj", "{71C0822A-7A68-4AE6-91AE-FF8ACD141428}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread.context.information", "thread.context.information\thread.context.information.csproj", "{FF7FF54A-9E67-4B57-96C3-7D7232772FE6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread.threadpool", "thread.threadpool\thread.threadpool.csproj", "{7857CAFF-38D1-48D0-9F13-9CA0D23DCBDA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-updating-ui-dispatcher", "task-updating-ui-dispatcher\task-updating-ui-dispatcher.csproj", "{1153B20A-1E8A-4C7A-A9EC-52622158B202}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "parallel", "parallel", "{956907AF-B97F-4FEE-BFA8-8DF8FF92F4C9}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tasks", "tasks", "{A358278B-4841-4A09-80D8-4CAE084389D2}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "threads", "threads", "{87537C54-AA26-4473-BFB6-57CF8B585C8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -163,14 +153,6 @@ Global
 		{FF7FF54A-9E67-4B57-96C3-7D7232772FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF7FF54A-9E67-4B57-96C3-7D7232772FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF7FF54A-9E67-4B57-96C3-7D7232772FE6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7857CAFF-38D1-48D0-9F13-9CA0D23DCBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7857CAFF-38D1-48D0-9F13-9CA0D23DCBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7857CAFF-38D1-48D0-9F13-9CA0D23DCBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7857CAFF-38D1-48D0-9F13-9CA0D23DCBDA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1153B20A-1E8A-4C7A-A9EC-52622158B202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1153B20A-1E8A-4C7A-A9EC-52622158B202}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1153B20A-1E8A-4C7A-A9EC-52622158B202}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1153B20A-1E8A-4C7A-A9EC-52622158B202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
