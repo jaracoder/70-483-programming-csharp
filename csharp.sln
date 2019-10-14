@@ -189,6 +189,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings.formats", "strings.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings.iformattable", "strings.iformattable\strings.iformattable.csproj", "{0D58EB0D-7590-4C63-A613-A03636500A50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings.format.provider", "strings.format.provider\strings.format.provider.csproj", "{DAF9D8E5-3C9A-4CCC-A9DB-41FF8A4F5610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings.interpolation", "strings.interpolation\strings.interpolation.csproj", "{2D672654-1B61-4641-901D-2B9B51711EEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -567,6 +571,14 @@ Global
 		{0D58EB0D-7590-4C63-A613-A03636500A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D58EB0D-7590-4C63-A613-A03636500A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D58EB0D-7590-4C63-A613-A03636500A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF9D8E5-3C9A-4CCC-A9DB-41FF8A4F5610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF9D8E5-3C9A-4CCC-A9DB-41FF8A4F5610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF9D8E5-3C9A-4CCC-A9DB-41FF8A4F5610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF9D8E5-3C9A-4CCC-A9DB-41FF8A4F5610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D672654-1B61-4641-901D-2B9B51711EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D672654-1B61-4641-901D-2B9B51711EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D672654-1B61-4641-901D-2B9B51711EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D672654-1B61-4641-901D-2B9B51711EEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
