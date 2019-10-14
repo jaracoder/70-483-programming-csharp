@@ -185,6 +185,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings.startwith", "string
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings.stringcomparison.cultures", "strings.comparision.cultures\strings.stringcomparison.cultures.csproj", "{98F1961C-5063-42D3-A251-D6910CF5ABB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings.formats", "strings.formats\strings.formats.csproj", "{6F9BBD23-AEFA-46CE-8BD6-4E1A352BA058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings.iformattable", "strings.iformattable\strings.iformattable.csproj", "{0D58EB0D-7590-4C63-A613-A03636500A50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -555,6 +559,14 @@ Global
 		{98F1961C-5063-42D3-A251-D6910CF5ABB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98F1961C-5063-42D3-A251-D6910CF5ABB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98F1961C-5063-42D3-A251-D6910CF5ABB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9BBD23-AEFA-46CE-8BD6-4E1A352BA058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9BBD23-AEFA-46CE-8BD6-4E1A352BA058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9BBD23-AEFA-46CE-8BD6-4E1A352BA058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9BBD23-AEFA-46CE-8BD6-4E1A352BA058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D58EB0D-7590-4C63-A613-A03636500A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D58EB0D-7590-4C63-A613-A03636500A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D58EB0D-7590-4C63-A613-A03636500A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D58EB0D-7590-4C63-A613-A03636500A50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
