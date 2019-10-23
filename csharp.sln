@@ -197,6 +197,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "json.create", "json.create\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xml.create", "xml.create\xml.create.csproj", "{D17C5B6D-D0A3-4336-A1BE-862903C05A1F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicTracks", "MusicTracks\MusicTracks.csproj", "{2B775D90-8310-449B-946A-97E94F133870}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -591,6 +593,10 @@ Global
 		{D17C5B6D-D0A3-4336-A1BE-862903C05A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D17C5B6D-D0A3-4336-A1BE-862903C05A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D17C5B6D-D0A3-4336-A1BE-862903C05A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B775D90-8310-449B-946A-97E94F133870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B775D90-8310-449B-946A-97E94F133870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B775D90-8310-449B-946A-97E94F133870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B775D90-8310-449B-946A-97E94F133870}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
