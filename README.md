@@ -17,7 +17,7 @@ Candidates should also have a thorough understanding of the following:
 
 ## Licencia
 
-Este proyecto está bajo la licencia de [GNU General Public License v3.0](https://github.com/jaracoder/ASP.NET.WebControl.Toolkit/blob/main/LICENSE.MD).
+Este proyecto está bajo la licencia de [GNU General Public License v3.0](https://github.com/jaracoder/70.483.Programming.CSharp/blob/master/LICENSE.MD).
 
 ---
 _escrito con ❤️ por [jaracoder](https://github.com/jaracoder)._
